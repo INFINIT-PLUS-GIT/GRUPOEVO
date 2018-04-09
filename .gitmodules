@@ -1,0 +1,4 @@
+[submodule "ceduardodch/odoo-ecuador"]
+	path = ceduardodch/odoo-ecuador
+	url = git@github.com:ceduardodch/odoo-ecuador.git
+	branch = 10.0
